@@ -1,0 +1,17 @@
+Router
+model: ISR4331
+
+Switcher0
+model: 2960 IOS15
+2 PCs, 1 laptop, 1 server
+PC0: 169.254.102.225
+PC1: 169.254.1.205
+Laptop: 169.254.155.124
+Server: 169.254.147.237
+
+Switcher1
+model: 2960 IOS15
+2 servers, 1 PC
+Server: 169.254.173.186
+Server: 169.254.53.83
+PC: 169.254.28.201
